@@ -1,16 +1,8 @@
 # magic_ball_v2
 
-A new Flutter project.
+<h3>This app is based on a book called "The Book of Answers" by Carol Bolt. this app will give you the answers to all the tricky questions in life. You can make the ball change at the press of a button. Developed for complete the 8<sup>th</sup> section on the flutter bootcamp</h3>
 
-## Getting Started
+![8-ball-flutter-gif](https://user-images.githubusercontent.com/87405522/211890080-563d863c-ec46-47c0-bd79-12dc85641d5b.gif)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
